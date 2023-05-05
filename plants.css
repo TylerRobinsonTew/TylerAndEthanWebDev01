@@ -1,0 +1,16 @@
+#plants {
+    text-align: center;
+}
+
+#plantsflexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+img {
+    border: solid 5px black;
+    width: 250px;
+    height: 250px;
+}
+
