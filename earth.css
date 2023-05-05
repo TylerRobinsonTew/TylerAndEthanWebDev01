@@ -1,0 +1,34 @@
+img {
+    width: 200px;
+    height: 200px;
+    border: solid 10px black;
+}
+
+h1 {
+    text-align: center;
+}
+
+#earthflexbox {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#bottom {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.big-image {
+    width: 500px;
+    height: 500px;
+}
+
+#rocks {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 450px;
+    justify-content: center;
+}
